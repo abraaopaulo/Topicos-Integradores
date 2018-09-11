@@ -1,0 +1,33 @@
+->textoPrincipal<-
+texto da tela1
+texto da tela1
+texto da tela1
+->botoes<-
+->texto<-
+opção1
+->proximaTela<-
+parte3
+->vida<-
+5
+->esperiencia<-
+11
+->poder<-
+-10
+->respeito<-
+50
+->inventario<-
+diamante
+->texto<-
+opção2
+->proximaTela<-
+parte3
+->vida<-
+5
+->esperiencia<-
+3
+->poder<-
+-1
+->respeito<-
+5
+->inventario<-
+bolsa
